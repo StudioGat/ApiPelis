@@ -3,7 +3,9 @@
     {
       "titulo": "School Days Caoitlo fnal ",
       "imagen": "https://media.themoviedb.org/t/p/w640_and_h360_bestv2/mIPvgWuFg4YcMkg6da353LudfEE.jpg",
-      "enlace": "https://example.com/ver/inka-wars"
+      "enlace": "https://example.com/ver/inka-wars",
+      "temporada": "1",
+      "episodio": "13"
     },
     {
       "titulo": "Nagatoro Final ",
