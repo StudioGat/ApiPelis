@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "titulo": "Lilo y Stitch",
+      "imagen": "https://i.imgur.com/VvH8sMV.jpeg",
+      "enlace": "https://example.com/lilo-stitch"
+    },
+    {
+      "titulo": "Destino Final: Lazos de Sangre",
+      "imagen": "https://i.imgur.com/k9cJxJj.jpeg",
+      "enlace": "https://example.com/destino-final"
+    },
+    {
+      "titulo": "Película 3",
+      "imagen": "https://example.com/pelicula3.jpg",
+      "enlace": "https://example.com/pelicula3"
+    },
+    {
+      "titulo": "Película 4",
+      "imagen": "https://example.com/pelicula4.jpg",
+      "enlace": "https://example.com/pelicula4"
+    },
+    {
+      "titulo": "Película 5",
+      "imagen": "https://example.com/pelicula5.jpg",
+      "enlace": "https://example.com/pelicula5"
+    },
+    {
+      "titulo": "Película 6",
+      "imagen": "https://example.com/pelicula6.jpg",
+      "enlace": "https://example.com/pelicula6"
+    },
+    {
+      "titulo": "Película 7",
+      "imagen": "https://example.com/pelicula7.jpg",
+      "enlace": "https://example.com/pelicula7"
+    },
+    {
+      "titulo": "Película 8",
+      "imagen": "https://example.com/pelicula8.jpg",
+      "enlace": "https://example.com/pelicula8"
+    },
+    {
+      "titulo": "Película 9",
+      "imagen": "https://example.com/pelicula9.jpg",
+      "enlace": "https://example.com/pelicula9"
+    },
+    {
+      "titulo": "Película 10",
+      "imagen": "https://example.com/pelicula10.jpg",
+      "enlace": "https://example.com/pelicula10"
+    }
+  ]
+}
