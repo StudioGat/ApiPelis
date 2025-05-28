@@ -1,22 +1,14 @@
 {
   "items": [
     {
-      "titulo": "Avatr y el camino del agua ",
-      "imagen": "https://image.tmdb.org/t/p/original/ckeTumMS4G31UQ9NNkmtW2QhfMF.jpg",
-      "enlace": "https://1a-1791.com/video/s8/2/6/O/X/Q/6OXQu.aaa.mp4"
-    },
-    {
-      "titulo": "Your Name",
-      "imagen": "https://image.tmdb.org/t/p/original/iaiy3tg9QVkDpObm1IGqmbC9A5C.jpg",
-      "enlace": "https://example.com/ver/puma"
-    },
-    {
-  "items": [
-    {
     "titulo": "Avatar",
-    "imagen": "https://image.tmdb.org/t/p/original/tXmTHdrZgNsULqCbThK2Dt2X9Wt.jpg",
-    "enlace": "https://ww3canalgatanime.blogspot.com/2025/01/cjplayer.html?movieName=QXZhdGFy&videoUrl=aHR0cHM6Ly8xYS0xNzkxLmNvbS92aWRlby9zOC8yLzYvTy9YL1EvNk9YUXUuYWFhLm1wNA==&imageUrl=aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avb3JpZ2luYWwvdkw1TFI2V2R4V1BqTFBGUkxlMTMzalhXc2g1LmpwZw=="
-    
-}
-  ]
+    "enlace": "https://ww3canalgatanime.blogspot.com/2025/01/cjplayer.html?movieName=QXZhdGFy&videoUrl=aHR0cHM6Ly8xYS0xNzkxLmNvbS92aWRlby9zOC8yLzYvTy9YL1EvNk9YUXUuYWFhLm1wNA==&imageUrl=aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avb3JpZ2luYWwvdkw1TFI2V2R4V1BqTFBGUkxlMTMzalhXc2g1LmpwZw==",
+    "imagen": "https://image.tmdb.org/t/p/w500/kyeqWdyUXW608qlYkRqosgbbJyK.jpg"
+    },
+    {
+      "titulo": "mas aya del jardín",
+      "imagen": "https://image.tmdb.org/t/p/original/69Wxg9xJjynDViaf0SNhk3PnCn9.jpg",
+      "enlace": "https://example.com/ver/puma"
     }
+  ]
+}
