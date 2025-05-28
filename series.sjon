@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "titulo": "big mausth",
+      "imagen": "https://image.tmdb.org/t/p/original/8a50yUe9q3dlpNPK7AHLFE8Fkc0.jpg",
+      "enlace": "https://example.com/ver/inka-wars"
+    },
+    {
+      "titulo": "mas aya del jardín",
+      "imagen": "https://image.tmdb.org/t/p/original/69Wxg9xJjynDViaf0SNhk3PnCn9.jpg",
+      "enlace": "https://example.com/ver/puma"
+    }
+  ]
+}
