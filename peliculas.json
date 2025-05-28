@@ -14,26 +14,8 @@
   "items": [
     {
     "titulo": "Avatar",
-    "ranking": "#2 en México",
-    "descripcion": "Jake Sully, un soldado parapléjico, ha sido designado para ir a la luna Pandora, habitado por una raza de humanoides extraterrestres inteligentes llamados Los Na'vi, en una misión única a través de un avatar.",
-    "generos": [
-        "Acción",
-        "Aventura",
-        "Fantasía",
-        "Ciencia ficción"
-    ],
-    "imdb": "7.6",
-    "año": 2009,
-    "duracion": "162 min",
     "imagen": "https://image.tmdb.org/t/p/original/tXmTHdrZgNsULqCbThK2Dt2X9Wt.jpg",
-    "acciones": [
-        "Tráiler",
-        "Mi lista",
-        "Me gusta",
-        "No es para mí",
-        "Compartir"
-    ],
-    "link_reproducir": "https://ww3canalgatanime.blogspot.com/2025/01/cjplayer.html?movieName=QXZhdGFy&videoUrl=aHR0cHM6Ly8xYS0xNzkxLmNvbS92aWRlby9zOC8yLzYvTy9YL1EvNk9YUXUuYWFhLm1wNA==&imageUrl=aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avb3JpZ2luYWwvdkw1TFI2V2R4V1BqTFBGUkxlMTMzalhXc2g1LmpwZw==",
-    "link_descarga": "//"
+    "enlace": "https://ww3canalgatanime.blogspot.com/2025/01/cjplayer.html?movieName=QXZhdGFy&videoUrl=aHR0cHM6Ly8xYS0xNzkxLmNvbS92aWRlby9zOC8yLzYvTy9YL1EvNk9YUXUuYWFhLm1wNA==&imageUrl=aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avb3JpZ2luYWwvdkw1TFI2V2R4V1BqTFBGUkxlMTMzalhXc2g1LmpwZw=="
+    
 }
   ]
