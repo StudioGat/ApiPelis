@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "titulo": "Suzume",
+      "imagen": "https://image.tmdb.org/t/p/original/iUfWPVyuLA4wZ5EetHyyGsi25SF.jpg",
+      "enlace": "https://example.com/ver/inka-wars"
+    },
+    {
+      "titulo": "Your Name",
+      "imagen": "https://image.tmdb.org/t/p/original/iaiy3tg9QVkDpObm1IGqmbC9A5C.jpg",
+      "enlace": "https://example.com/ver/puma"
+    }
+  ]
+}
