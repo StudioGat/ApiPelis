@@ -3,13 +3,33 @@
     {
     "titulo": "Avatar",
     "enlace": "https://ww3canalgatanime.blogspot.com/2025/01/cjplayer.html?movieName=QXZhdGFy&videoUrl=aHR0cHM6Ly8xYS0xNzkxLmNvbS92aWRlby9zOC8yLzYvTy9YL1EvNk9YUXUuYWFhLm1wNA==&imageUrl=aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avb3JpZ2luYWwvdkw1TFI2V2R4V1BqTFBGUkxlMTMzalhXc2g1LmpwZw==",
-    "imagen": "https://image.tmdb.org/t/p/original/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg"
+    "imagen": "https://image.tmdb.org/t/p/w1280/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg"
 },
-
     {
-      "titulo": "mas aya del jardín",
-      "imagen": "https://image.tmdb.org/t/p/original/69Wxg9xJjynDViaf0SNhk3PnCn9.jpg",
-      "enlace": "https://example.com/ver/puma"
+    "titulo": "Avatar: The Way of Water",
+    "enlace": "https://ww3canalgatanime.blogspot.com/2025/01/cjplayer.html?movieName=QXZhdGFyOiBFbCBjYW1pbm8gZGVsIGFndWE=&videoUrl=aHR0cHM6Ly8xYS0xNzkxLmNvbS92aWRlby9zOC8yLzYvdy9iL1EvNndiUXUuYWFhLm1wNA==&imageUrl=aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avb3JpZ2luYWwvOHJwRGNzZkxKeXBiTzZ2UkVjMDU0N1ZLcUV2LmpwZw==",
+    "imagen": "https://image.tmdb.org/t/p/w1280/8rpDcsfLJypbO6vREc0547VKqEv.jpg"
+},
+    {
+    "titulo": "Captain Marvel",
+    "enlace": "https://ww3canalgatanime.blogspot.com/2025/01/cjplayer.html?movieName=Q2FwaXRhbmEgTWFydmVs&videoUrl=aHR0cHM6Ly8xYS0xNzkxLmNvbS92aWRlby9zOC8yL3kvNi80L1EveTY0UXUuYWFhLm1wNA==&imageUrl=aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avb3JpZ2luYWwvcUF6WUs0WVBTV0RjN2FhNFI0M0xjd1JJQXliLmpwZw==",
+    "imagen": "https://image.tmdb.org/t/p/w1280/qAzYK4YPSWDc7aa4R43LcwRIAyb.jpg"
+},
+    {
+    "titulo": "Cyborg",
+    "enlace": "https://ww3canalgatanime.blogspot.com/2025/01/cjplayer.html?movieName=Q3lib3Jn&videoUrl=aHR0cHM6Ly8xYS0xNzkxLmNvbS92aWRlby9zOC8yLy0vVS9aL1EvLVVaUXUuYWFhLm1wNA==&imageUrl=aHR0cHM6Ly9pbWFnZS50bWRiLm9yZy90L3Avb3JpZ2luYWwvbFVIaHdmOVZSY2RuUDVnUWpucWEzMzdMMzNNLmpwZw==",
+    "imagen": "https://image.tmdb.org/t/p/w1280/lUHhwf9VRcdnP5gQjnqa337L33M.jpg"
+}
+
+
+
+
+
+
+
+
+
+
     }
   ]
 }
