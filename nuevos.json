@@ -11,12 +11,37 @@
       "titulo": "Nagatoro Final ",
       "imagen": "https://media.themoviedb.org/t/p/w1000_and_h563_face/u6NTVBHWVpQ2KDQHVkjAxf9XMMe.jpg",
       "enlace": "https://example.com/ver/puma"
+      "temporada": "1",
+      "episodio": "13"
     },
     {
     "titulo": "Elfen Lied ",
       "imagen": "https://media.themoviedb.org/t/p/w640_and_h360_bestv2/j2GpxbIO5Vc4MvNvFgCBZkWWem2.jpg",
       "enlace": "https://example.com/ver/puma"
-    }
+      "temporada": "1",
+      "episodio": "3"
+    },
+    {
+    "titulo": "shiunji family",
+      "imagen": "https://media.themoviedb.org/t/p/w640_and_h360_bestv2/siCniz5vbb4lstQex9LKu9Iq3aT.jpg",
+      "enlace": "https://example.com/ver/puma"
+      "temporada": "1",
+      "episodio": "7"
+    },
+     {
+    "titulo": "Re Zero",
+      "imagen": "https://media.themoviedb.org/t/p/w640_and_h360_bestv2/80T61OnEm3ZrCeuZwyVyypIpIBg.jpg",
+      "enlace": "https://example.com/ver/puma"
+      "temporada": "2",
+      "episodio": "3"
+     },
+    {
+    "titulo": "Ricky y Mortin",
+      "imagen": "https://media.themoviedb.org/t/p/w640_and_h360_bestv2/9nh9ZpxOyCJMD73biS2h3CvHfm2.jpg",
+      "enlace": "https://example.com/ver/puma"
+      "temporada": "1",
+      "episodio": "5"
+     }
     
   ]
 }
