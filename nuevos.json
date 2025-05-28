@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "titulo": "School Days Caoitlo fnal ",
+      "imagen": "https://media.themoviedb.org/t/p/w640_and_h360_bestv2/mIPvgWuFg4YcMkg6da353LudfEE.jpg",
+      "enlace": "https://example.com/ver/inka-wars"
+    },
+    {
+      "titulo": "Nagatoro Final ",
+      "imagen": "https://media.themoviedb.org/t/p/w1000_and_h563_face/u6NTVBHWVpQ2KDQHVkjAxf9XMMe.jpg",
+      "enlace": "https://example.com/ver/puma"
+    },
+    {
+    "titulo": "Elfen Lied ",
+      "imagen": "https://media.themoviedb.org/t/p/w640_and_h360_bestv2/j2GpxbIO5Vc4MvNvFgCBZkWWem2.jpg",
+      "enlace": "https://example.com/ver/puma"
+    }
+    
+  ]
+}
