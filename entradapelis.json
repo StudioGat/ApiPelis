@@ -1,27 +1,23 @@
-
 {
   "items": [
     {
-    "titulo": "Hereje",
-    "ranking": "#2 en México",
-    "descripcion": "Dos jóvenes misioneras se ven obligadas a demostrar su fe cuando llaman a la puerta equivocada y son recibidas por el diabólico Sr. Reed (Hugh Grant). Los tres se verán envueltos en un brutal juego del gato y el ratón durante una larga noche de tormenta.",
-    "generos": [
-        "Terror",
-        "Suspense"
-    ],
-    "imdb": "7.0",
-    "año": 2024,
-    "duracion": "111 min",
-    "imagen": "https://image.tmdb.org/t/p/original/tXD5OCA0APsQNcjVdyl9COrwTfx.jpg",
-    "acciones": [
+      "titulo": "Hereje",
+      "ranking": "#2 en México",
+      "descripcion": "Dos jóvenes misioneras se ven obligadas a demostrar su fe cuando llaman a la puerta equivocada y son recibidas por el diabólico Sr. Reed (Hugh Grant). Los tres se verán envueltos en un brutal juego del gato y el ratón durante una larga noche de tormenta.",
+      "generos": ["Terror", "Suspense"],
+      "imdb": "7.0",
+      "año": "2024",
+      "duracion": "111 min",
+      "imagen": "https://image.tmdb.org/t/p/original/tXD5OCA0APsQNcjVdyl9COrwTfx.jpg",
+      "acciones": [
         "Tráiler",
         "Mi lista",
         "Me gusta",
         "No es para mí",
         "Compartir"
-    ],
-    "link_reproducir": "https://filemoon.to/e/9fejdfitv6ff",
-    "link_descarga": "https://filemoon.to/d/9fejdfitv6ff"
-}
+      ],
+      "link_reproducir": "https://filemoon.to/e/9fejdfitv6ff",
+      "link_descarga": "https://filemoon.to/d/9fejdfitv6ff"
+    }
   ]
 }
